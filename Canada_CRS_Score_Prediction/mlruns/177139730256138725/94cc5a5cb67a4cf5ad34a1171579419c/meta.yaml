@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/177139730256138725/94cc5a5cb67a4cf5ad34a1171579419c/artifacts
+end_time: 1702481694223
+entry_point_name: ''
+experiment_id: '177139730256138725'
+lifecycle_stage: active
+run_id: 94cc5a5cb67a4cf5ad34a1171579419c
+run_name: I2 Support Vector Regression Prediction wo CRS
+run_uuid: 94cc5a5cb67a4cf5ad34a1171579419c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702481685836
+status: 3
+tags: []
+user_id: nanth

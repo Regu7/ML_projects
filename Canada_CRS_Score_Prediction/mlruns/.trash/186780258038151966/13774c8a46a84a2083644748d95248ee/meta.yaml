@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/186780258038151966/13774c8a46a84a2083644748d95248ee/artifacts
+deleted_time: 1702271772638
+end_time: 1702271561021
+entry_point_name: ''
+experiment_id: '186780258038151966'
+lifecycle_stage: deleted
+run_id: 13774c8a46a84a2083644748d95248ee
+run_name: calm-hen-332
+run_uuid: 13774c8a46a84a2083644748d95248ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702271557750
+status: 3
+tags: []
+user_id: nanth

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702488893926
+current_stage: None
+description: ''
+last_updated_timestamp: 1702488893926
+name: I1 Ridge Regression
+run_id: 6685794bc5404147945b3f0034b089cf
+run_link: ''
+source: mlflow-artifacts:/177139730256138725/6685794bc5404147945b3f0034b089cf/artifacts/invitations_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/177139730256138725/6685794bc5404147945b3f0034b089cf/artifacts/invitations_model
+user_id: null
+version: 4

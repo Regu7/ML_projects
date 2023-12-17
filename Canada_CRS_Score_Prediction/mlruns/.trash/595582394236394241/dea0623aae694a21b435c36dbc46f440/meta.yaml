@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/595582394236394241/dea0623aae694a21b435c36dbc46f440/artifacts
+deleted_time: 1702273398065
+end_time: 1702273142164
+entry_point_name: ''
+experiment_id: '595582394236394241'
+lifecycle_stage: deleted
+run_id: dea0623aae694a21b435c36dbc46f440
+run_name: Linear Regression Prediction wo CRS
+run_uuid: dea0623aae694a21b435c36dbc46f440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702273139252
+status: 3
+tags: []
+user_id: nanth

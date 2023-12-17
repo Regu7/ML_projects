@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702272874889
+current_stage: None
+description: ''
+last_updated_timestamp: 1702272874889
+name: Support Vector Regression
+run_id: 38d60f06d7884e69ab67c59abd49e6b9
+run_link: ''
+source: mlflow-artifacts:/603960287525455282/38d60f06d7884e69ab67c59abd49e6b9/artifacts/invitations_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/603960287525455282/38d60f06d7884e69ab67c59abd49e6b9/artifacts/invitations_model
+user_id: null
+version: 3

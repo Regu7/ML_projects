@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/177139730256138725/409a5f0db6614b1281a8260b345ba50b/artifacts
+end_time: 1702481702137
+entry_point_name: ''
+experiment_id: '177139730256138725'
+lifecycle_stage: active
+run_id: 409a5f0db6614b1281a8260b345ba50b
+run_name: I2 Decision Tree Regression Prediction wo CRS
+run_uuid: 409a5f0db6614b1281a8260b345ba50b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702481694274
+status: 3
+tags: []
+user_id: nanth

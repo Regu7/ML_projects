@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702481677865
+current_stage: None
+description: ''
+last_updated_timestamp: 1702481677865
+name: I2 Lasso Regression
+run_id: be38fc467d174f3e818fe6d183158fad
+run_link: ''
+source: mlflow-artifacts:/177139730256138725/be38fc467d174f3e818fe6d183158fad/artifacts/invitations_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/177139730256138725/be38fc467d174f3e818fe6d183158fad/artifacts/invitations_model
+user_id: null
+version: 3

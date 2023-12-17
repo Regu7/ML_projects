@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/314501687924619135/ad83f75412944caeab2d21f9d5af196d/artifacts
+deleted_time: 1702271980347
+end_time: 1702271781656
+entry_point_name: ''
+experiment_id: '314501687924619135'
+lifecycle_stage: deleted
+run_id: ad83f75412944caeab2d21f9d5af196d
+run_name: overjoyed-bear-834
+run_uuid: ad83f75412944caeab2d21f9d5af196d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702271779677
+status: 3
+tags: []
+user_id: nanth

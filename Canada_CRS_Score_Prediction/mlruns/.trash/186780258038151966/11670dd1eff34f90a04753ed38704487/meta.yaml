@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/186780258038151966/11670dd1eff34f90a04753ed38704487/artifacts
+deleted_time: 1702271772638
+end_time: 1702271563915
+entry_point_name: ''
+experiment_id: '186780258038151966'
+lifecycle_stage: deleted
+run_id: 11670dd1eff34f90a04753ed38704487
+run_name: youthful-ray-37
+run_uuid: 11670dd1eff34f90a04753ed38704487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702271561074
+status: 3
+tags: []
+user_id: nanth

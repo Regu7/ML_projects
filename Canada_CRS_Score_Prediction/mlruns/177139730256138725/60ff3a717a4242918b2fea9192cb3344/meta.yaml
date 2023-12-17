@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/177139730256138725/60ff3a717a4242918b2fea9192cb3344/artifacts
+end_time: 1702593230976
+entry_point_name: ''
+experiment_id: '177139730256138725'
+lifecycle_stage: active
+run_id: 60ff3a717a4242918b2fea9192cb3344
+run_name: I2 ElasticNet Regression Prediction wo CRS
+run_uuid: 60ff3a717a4242918b2fea9192cb3344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702593226029
+status: 3
+tags: []
+user_id: nanth

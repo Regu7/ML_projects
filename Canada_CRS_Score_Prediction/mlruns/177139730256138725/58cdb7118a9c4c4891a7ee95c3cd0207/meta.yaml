@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/177139730256138725/58cdb7118a9c4c4891a7ee95c3cd0207/artifacts
+end_time: 1702488900564
+entry_point_name: ''
+experiment_id: '177139730256138725'
+lifecycle_stage: active
+run_id: 58cdb7118a9c4c4891a7ee95c3cd0207
+run_name: I1 Lasso Regression Prediction
+run_uuid: 58cdb7118a9c4c4891a7ee95c3cd0207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702488894011
+status: 3
+tags: []
+user_id: nanth

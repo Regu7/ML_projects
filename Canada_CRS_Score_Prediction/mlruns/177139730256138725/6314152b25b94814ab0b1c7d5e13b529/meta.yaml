@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/177139730256138725/6314152b25b94814ab0b1c7d5e13b529/artifacts
+end_time: 1702592520851
+entry_point_name: ''
+experiment_id: '177139730256138725'
+lifecycle_stage: active
+run_id: 6314152b25b94814ab0b1c7d5e13b529
+run_name: I2 Lasso Regression Prediction wo CRS
+run_uuid: 6314152b25b94814ab0b1c7d5e13b529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702592515997
+status: 3
+tags: []
+user_id: nanth

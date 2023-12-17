@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/768001568297028725/114bd052fd3047c48015f6c240b87067/artifacts
+deleted_time: 1702272897489
+end_time: 1702272689200
+entry_point_name: ''
+experiment_id: '768001568297028725'
+lifecycle_stage: deleted
+run_id: 114bd052fd3047c48015f6c240b87067
+run_name: Ridge Regression Prediction
+run_uuid: 114bd052fd3047c48015f6c240b87067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702272686298
+status: 3
+tags: []
+user_id: nanth

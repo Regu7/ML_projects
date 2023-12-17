@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/177139730256138725/36e85aaafc1c43b3b0ddfcade765f740/artifacts
+end_time: 1702488913471
+entry_point_name: ''
+experiment_id: '177139730256138725'
+lifecycle_stage: active
+run_id: 36e85aaafc1c43b3b0ddfcade765f740
+run_name: I1 Support Vector Regression Prediction
+run_uuid: 36e85aaafc1c43b3b0ddfcade765f740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702488906784
+status: 3
+tags: []
+user_id: nanth

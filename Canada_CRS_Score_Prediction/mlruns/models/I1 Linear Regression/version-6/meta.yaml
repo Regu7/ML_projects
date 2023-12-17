@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702592468609
+current_stage: None
+description: ''
+last_updated_timestamp: 1702592468609
+name: I1 Linear Regression
+run_id: 9254d7d0bbea454ca2eb3949eebd5227
+run_link: ''
+source: mlflow-artifacts:/177139730256138725/9254d7d0bbea454ca2eb3949eebd5227/artifacts/invitations_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/177139730256138725/9254d7d0bbea454ca2eb3949eebd5227/artifacts/invitations_model
+user_id: null
+version: 6

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702272860518
+current_stage: None
+description: ''
+last_updated_timestamp: 1702272860518
+name: Random Forest Regression
+run_id: a039f2586181478fb1fcefdd8993fc2c
+run_link: ''
+source: mlflow-artifacts:/603960287525455282/a039f2586181478fb1fcefdd8993fc2c/artifacts/invitations_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/603960287525455282/a039f2586181478fb1fcefdd8993fc2c/artifacts/invitations_model
+user_id: null
+version: 2

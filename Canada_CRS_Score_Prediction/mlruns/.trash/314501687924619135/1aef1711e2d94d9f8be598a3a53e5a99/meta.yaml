@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/314501687924619135/1aef1711e2d94d9f8be598a3a53e5a99/artifacts
+deleted_time: 1702271980347
+end_time: 1702271791506
+entry_point_name: ''
+experiment_id: '314501687924619135'
+lifecycle_stage: deleted
+run_id: 1aef1711e2d94d9f8be598a3a53e5a99
+run_name: thundering-roo-969
+run_uuid: 1aef1711e2d94d9f8be598a3a53e5a99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702271789313
+status: 3
+tags: []
+user_id: nanth

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/277551444441880368/3353006227234ffb97ea2447c3610638/artifacts
+end_time: 1702488822381
+entry_point_name: ''
+experiment_id: '277551444441880368'
+lifecycle_stage: active
+run_id: 3353006227234ffb97ea2447c3610638
+run_name: C1 Decision Tree Regression Prediction
+run_uuid: 3353006227234ffb97ea2447c3610638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702488815809
+status: 3
+tags: []
+user_id: nanth

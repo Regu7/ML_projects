@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702496773201
+current_stage: None
+description: ''
+last_updated_timestamp: 1702496773201
+name: C1 Random Forest Regression
+run_id: fee12085d2224441aa0dd790f46a6d09
+run_link: ''
+source: mlflow-artifacts:/277551444441880368/fee12085d2224441aa0dd790f46a6d09/artifacts/crs_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/277551444441880368/fee12085d2224441aa0dd790f46a6d09/artifacts/crs_model
+user_id: null
+version: 9

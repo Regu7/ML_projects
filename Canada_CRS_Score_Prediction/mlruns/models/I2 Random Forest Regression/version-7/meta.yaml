@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702593250546
+current_stage: None
+description: ''
+last_updated_timestamp: 1702593250546
+name: I2 Random Forest Regression
+run_id: 63d750844d1049bf931c91ddc4eb6a80
+run_link: ''
+source: mlflow-artifacts:/177139730256138725/63d750844d1049bf931c91ddc4eb6a80/artifacts/invitations_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/177139730256138725/63d750844d1049bf931c91ddc4eb6a80/artifacts/invitations_model
+user_id: null
+version: 7

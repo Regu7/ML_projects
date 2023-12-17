@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/177139730256138725/670a3863783b4807a83f401fb7ddc50d/artifacts
+end_time: 1702592515960
+entry_point_name: ''
+experiment_id: '177139730256138725'
+lifecycle_stage: active
+run_id: 670a3863783b4807a83f401fb7ddc50d
+run_name: I2 Ridge Regression Prediction wo CRS
+run_uuid: 670a3863783b4807a83f401fb7ddc50d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702592509596
+status: 3
+tags: []
+user_id: nanth

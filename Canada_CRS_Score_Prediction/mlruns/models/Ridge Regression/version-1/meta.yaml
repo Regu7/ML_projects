@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702272820463
+current_stage: None
+description: ''
+last_updated_timestamp: 1702272820463
+name: Ridge Regression
+run_id: 544fb4cafe89405399ff2f8e500b6f06
+run_link: ''
+source: mlflow-artifacts:/768001568297028725/544fb4cafe89405399ff2f8e500b6f06/artifacts/crs_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/768001568297028725/544fb4cafe89405399ff2f8e500b6f06/artifacts/crs_model
+user_id: null
+version: 1

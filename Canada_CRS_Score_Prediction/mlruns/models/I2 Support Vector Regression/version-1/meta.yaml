@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702273152977
+current_stage: None
+description: ''
+last_updated_timestamp: 1702273152977
+name: I2 Support Vector Regression
+run_id: f2fbb357755047029f6efb493bf3a24e
+run_link: ''
+source: mlflow-artifacts:/595582394236394241/f2fbb357755047029f6efb493bf3a24e/artifacts/invitations_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/595582394236394241/f2fbb357755047029f6efb493bf3a24e/artifacts/invitations_model
+user_id: null
+version: 1

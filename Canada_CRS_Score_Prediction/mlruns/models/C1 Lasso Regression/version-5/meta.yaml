@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702488371406
+current_stage: None
+description: ''
+last_updated_timestamp: 1702488371406
+name: C1 Lasso Regression
+run_id: 530a3d10f9c944b9b2612b9d25af1c6e
+run_link: ''
+source: mlflow-artifacts:/277551444441880368/530a3d10f9c944b9b2612b9d25af1c6e/artifacts/crs_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/277551444441880368/530a3d10f9c944b9b2612b9d25af1c6e/artifacts/crs_model
+user_id: null
+version: 5

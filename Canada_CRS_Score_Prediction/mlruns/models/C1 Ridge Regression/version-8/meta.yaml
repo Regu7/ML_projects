@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702490387026
+current_stage: None
+description: ''
+last_updated_timestamp: 1702490387026
+name: C1 Ridge Regression
+run_id: c9d36b9d8a0443adbd24a20c3420fda5
+run_link: ''
+source: mlflow-artifacts:/277551444441880368/c9d36b9d8a0443adbd24a20c3420fda5/artifacts/crs_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/277551444441880368/c9d36b9d8a0443adbd24a20c3420fda5/artifacts/crs_model
+user_id: null
+version: 8

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/595582394236394241/45fb8b0863c24a39aeff0f57c957da8c/artifacts
+deleted_time: 1702273398065
+end_time: 1702273158774
+entry_point_name: ''
+experiment_id: '595582394236394241'
+lifecycle_stage: deleted
+run_id: 45fb8b0863c24a39aeff0f57c957da8c
+run_name: Random Forest Regression Prediction wo CRS
+run_uuid: 45fb8b0863c24a39aeff0f57c957da8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702273156065
+status: 3
+tags: []
+user_id: nanth

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/177139730256138725/c362d0e48e55493594f2d38e0822429f/artifacts
+end_time: 1702481590390
+entry_point_name: ''
+experiment_id: '177139730256138725'
+lifecycle_stage: active
+run_id: c362d0e48e55493594f2d38e0822429f
+run_name: I1 XGB Regressor Prediction
+run_uuid: c362d0e48e55493594f2d38e0822429f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702481582742
+status: 3
+tags: []
+user_id: nanth

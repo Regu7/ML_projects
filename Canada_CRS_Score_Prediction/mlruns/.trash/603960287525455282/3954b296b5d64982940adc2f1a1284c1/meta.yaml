@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/603960287525455282/3954b296b5d64982940adc2f1a1284c1/artifacts
+deleted_time: 1702272893778
+end_time: 1702272857836
+entry_point_name: ''
+experiment_id: '603960287525455282'
+lifecycle_stage: deleted
+run_id: 3954b296b5d64982940adc2f1a1284c1
+run_name: Decision Tree Regression Prediction
+run_uuid: 3954b296b5d64982940adc2f1a1284c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702272855707
+status: 3
+tags: []
+user_id: nanth

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702272737297
+current_stage: None
+description: ''
+last_updated_timestamp: 1702272737297
+name: name
+run_id: db08d8cabe10495284f4605c86168d8e
+run_link: ''
+source: mlflow-artifacts:/603960287525455282/db08d8cabe10495284f4605c86168d8e/artifacts/invitations_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/603960287525455282/db08d8cabe10495284f4605c86168d8e/artifacts/invitations_model
+user_id: null
+version: 48

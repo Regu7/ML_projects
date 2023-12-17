@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702490239857
+current_stage: None
+description: ''
+last_updated_timestamp: 1702490239857
+name: C1 XGB Regressor
+run_id: 0683464090a04f23990dd7812ab9c9ed
+run_link: ''
+source: mlflow-artifacts:/277551444441880368/0683464090a04f23990dd7812ab9c9ed/artifacts/crs_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/277551444441880368/0683464090a04f23990dd7812ab9c9ed/artifacts/crs_model
+user_id: null
+version: 7

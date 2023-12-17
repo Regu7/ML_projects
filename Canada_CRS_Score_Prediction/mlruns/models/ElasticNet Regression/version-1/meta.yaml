@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702272825606
+current_stage: None
+description: ''
+last_updated_timestamp: 1702272825606
+name: ElasticNet Regression
+run_id: 8a3d307e2d5547f48e9b7beb5695244d
+run_link: ''
+source: mlflow-artifacts:/768001568297028725/8a3d307e2d5547f48e9b7beb5695244d/artifacts/crs_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/768001568297028725/8a3d307e2d5547f48e9b7beb5695244d/artifacts/crs_model
+user_id: null
+version: 1

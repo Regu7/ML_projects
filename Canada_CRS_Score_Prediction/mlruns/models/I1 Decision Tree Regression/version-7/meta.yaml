@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702593193409
+current_stage: None
+description: ''
+last_updated_timestamp: 1702593193409
+name: I1 Decision Tree Regression
+run_id: f59faaec5b1d41918c570df0ecb99888
+run_link: ''
+source: mlflow-artifacts:/177139730256138725/f59faaec5b1d41918c570df0ecb99888/artifacts/invitations_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/177139730256138725/f59faaec5b1d41918c570df0ecb99888/artifacts/invitations_model
+user_id: null
+version: 7

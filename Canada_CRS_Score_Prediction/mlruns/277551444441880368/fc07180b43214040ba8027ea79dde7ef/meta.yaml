@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/277551444441880368/fc07180b43214040ba8027ea79dde7ef/artifacts
+end_time: 1702488789558
+entry_point_name: ''
+experiment_id: '277551444441880368'
+lifecycle_stage: active
+run_id: fc07180b43214040ba8027ea79dde7ef
+run_name: C1 Linear Regression Prediction
+run_uuid: fc07180b43214040ba8027ea79dde7ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702488783114
+status: 3
+tags: []
+user_id: nanth

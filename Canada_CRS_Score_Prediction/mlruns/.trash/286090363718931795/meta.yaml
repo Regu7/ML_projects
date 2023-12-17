@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/286090363718931795
+creation_time: 1702273067979
+experiment_id: '286090363718931795'
+last_update_time: 1702273401450
+lifecycle_stage: deleted
+name: CRS Score Prediction
+tags: {}

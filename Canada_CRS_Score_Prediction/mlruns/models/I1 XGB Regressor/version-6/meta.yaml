@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702592463160
+current_stage: None
+description: ''
+last_updated_timestamp: 1702592463160
+name: I1 XGB Regressor
+run_id: 8a6ee450a59c43cabc29b51d2a31854b
+run_link: ''
+source: mlflow-artifacts:/177139730256138725/8a6ee450a59c43cabc29b51d2a31854b/artifacts/invitations_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/177139730256138725/8a6ee450a59c43cabc29b51d2a31854b/artifacts/invitations_model
+user_id: null
+version: 6

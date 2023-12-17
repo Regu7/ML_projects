@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/314501687924619135/a3750c681d2546c2928fe74d5aeefac0/artifacts
+deleted_time: 1702271980347
+end_time: 1702271785498
+entry_point_name: ''
+experiment_id: '314501687924619135'
+lifecycle_stage: deleted
+run_id: a3750c681d2546c2928fe74d5aeefac0
+run_name: industrious-sloth-18
+run_uuid: a3750c681d2546c2928fe74d5aeefac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702271783689
+status: 3
+tags: []
+user_id: nanth

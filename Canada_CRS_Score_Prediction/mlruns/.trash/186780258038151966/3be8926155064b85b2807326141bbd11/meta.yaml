@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/186780258038151966/3be8926155064b85b2807326141bbd11/artifacts
+deleted_time: 1702271772638
+end_time: 1702271566894
+entry_point_name: ''
+experiment_id: '186780258038151966'
+lifecycle_stage: deleted
+run_id: 3be8926155064b85b2807326141bbd11
+run_name: luminous-donkey-368
+run_uuid: 3be8926155064b85b2807326141bbd11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702271563982
+status: 3
+tags: []
+user_id: nanth

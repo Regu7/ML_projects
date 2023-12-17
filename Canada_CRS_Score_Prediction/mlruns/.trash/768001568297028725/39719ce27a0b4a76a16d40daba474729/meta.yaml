@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/768001568297028725/39719ce27a0b4a76a16d40daba474729/artifacts
+deleted_time: 1702272897489
+end_time: 1702272165994
+entry_point_name: ''
+experiment_id: '768001568297028725'
+lifecycle_stage: deleted
+run_id: 39719ce27a0b4a76a16d40daba474729
+run_name: Linear Regression Prediction
+run_uuid: 39719ce27a0b4a76a16d40daba474729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702272163969
+status: 3
+tags: []
+user_id: nanth

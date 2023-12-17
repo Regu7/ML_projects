@@ -1,0 +1,273 @@
+Date,Draw_Category,CRS,Invitations,Year,Month,Month_name,Date_only,Quater
+2015-01-31,No Category Specified,886,779,2015,1,January,31,1
+2015-02-07,No Category Specified,818,779,2015,2,February,7,1
+2015-02-20,Canadian Experience Class only,808,849,2015,2,February,20,1
+2015-02-27,No Category Specified,735,1187,2015,2,February,27,1
+2015-03-20,No Category Specified,481,1620,2015,3,March,20,1
+2015-03-27,No Category Specified,453,1637,2015,3,March,27,1
+2015-04-10,No Category Specified,469,925,2015,4,April,10,2
+2015-04-17,No Category Specified,453,715,2015,4,April,17,2
+2015-05-22,No Category Specified,755,1361,2015,5,May,22,2
+2015-06-12,No Category Specified,482,1501,2015,6,June,12,2
+2015-06-27,No Category Specified,469,1575,2015,6,June,27,2
+2015-07-10,No Category Specified,463,1516,2015,7,July,10,3
+2015-07-17,No Category Specified,451,1581,2015,7,July,17,3
+2015-08-07,No Category Specified,471,1402,2015,8,August,7,3
+2015-08-21,No Category Specified,456,1523,2015,8,August,21,3
+2015-09-08,No Category Specified,459,1517,2015,9,September,8,3
+2015-09-18,No Category Specified,450,1545,2015,9,September,18,3
+2015-10-02,No Category Specified,450,1530,2015,10,October,2,4
+2015-10-23,No Category Specified,489,1502,2015,10,October,23,4
+2015-11-13,No Category Specified,484,1506,2015,11,November,13,4
+2015-11-27,No Category Specified,472,1559,2015,11,November,27,4
+2015-12-04,No Category Specified,461,1451,2015,12,December,4,4
+2015-12-18,No Category Specified,460,1503,2015,12,December,18,4
+2016-01-06,No Category Specified,461,1463,2016,1,January,6,1
+2016-01-13,No Category Specified,453,1518,2016,1,January,13,1
+2016-01-28,No Category Specified,457,1468,2016,1,January,28,1
+2016-02-10,No Category Specified,459,1505,2016,2,February,10,1
+2016-02-24,No Category Specified,453,1484,2016,2,February,24,1
+2016-03-08,No Category Specified,473,1013,2016,3,March,8,1
+2016-03-23,No Category Specified,470,1014,2016,3,March,23,1
+2016-04-06,No Category Specified,470,954,2016,4,April,6,2
+2016-04-20,No Category Specified,468,1018,2016,4,April,20,2
+2016-05-06,No Category Specified,534,799,2016,5,May,6,2
+2016-05-18,No Category Specified,484,763,2016,5,May,18,2
+2016-06-01,No Category Specified,483,762,2016,6,June,1,2
+2016-06-15,No Category Specified,488,752,2016,6,June,15,2
+2016-06-29,No Category Specified,482,773,2016,6,June,29,2
+2016-07-13,No Category Specified,482,747,2016,7,July,13,3
+2016-07-27,No Category Specified,488,755,2016,7,July,27,3
+2016-08-10,No Category Specified,490,754,2016,8,August,10,3
+2016-08-24,No Category Specified,538,750,2016,8,August,24,3
+2016-09-07,No Category Specified,491,1000,2016,9,September,7,3
+2016-09-21,No Category Specified,483,1288,2016,9,September,21,3
+2016-10-12,No Category Specified,484,1518,2016,10,October,12,4
+2016-10-19,No Category Specified,475,1804,2016,10,October,19,4
+2016-11-02,No Category Specified,472,2080,2016,11,November,2,4
+2016-11-16,No Category Specified,470,2427,2016,11,November,16,4
+2016-11-30,Provincial nominees only,786,559,2016,11,November,30,4
+2016-12-16,No Category Specified,497,1936,2016,12,December,16,4
+2016-12-22,No Category Specified,475,2878,2016,12,December,22,4
+2017-01-04,No Category Specified,468,2902,2017,1,January,4,1
+2017-01-11,No Category Specified,459,3334,2017,1,January,11,1
+2017-01-25,No Category Specified,453,3508,2017,1,January,25,1
+2017-02-08,No Category Specified,447,3644,2017,2,February,8,1
+2017-02-22,No Category Specified,441,3611,2017,2,February,22,1
+2017-03-01,No Category Specified,434,3884,2017,3,March,1,1
+2017-03-24,No Category Specified,441,3749,2017,3,March,24,1
+2017-04-05,No Category Specified,431,3753,2017,4,April,5,2
+2017-04-12,No Category Specified,423,3923,2017,4,April,12,2
+2017-04-19,No Category Specified,415,3665,2017,4,April,19,2
+2017-05-04,No Category Specified,423,3796,2017,5,May,4,2
+2017-05-17,No Category Specified,415,3687,2017,5,May,17,2
+2017-05-26,Provincial nominees only,775,143,2017,5,May,26,2
+2017-05-26,Federal Skilled Trades candidates only,199,400,2017,5,May,26,2
+2017-05-31,No Category Specified,413,3877,2017,5,May,31,2
+2017-06-28,No Category Specified,449,3409,2017,6,June,28,2
+2017-07-12,No Category Specified,440,3202,2017,7,July,12,3
+2017-08-02,No Category Specified,441,3264,2017,8,August,2,3
+2017-08-09,No Category Specified,433,2991,2017,8,August,9,3
+2017-08-23,No Category Specified,434,3035,2017,8,August,23,3
+2017-09-06,No Category Specified,435,2772,2017,9,September,6,3
+2017-09-20,No Category Specified,433,2871,2017,9,September,20,3
+2017-10-04,No Category Specified,438,2801,2017,10,October,4,4
+2017-10-18,No Category Specified,436,2757,2017,10,October,18,4
+2017-11-01,Provincial nominees only,673,290,2017,11,November,1,4
+2017-11-01,Federal Skilled Trades candidates only,241,505,2017,11,November,1,4
+2017-11-08,No Category Specified,458,2000,2017,11,November,8,4
+2017-11-15,No Category Specified,439,2750,2017,11,November,15,4
+2017-12-06,No Category Specified,452,2750,2017,12,December,6,4
+2017-12-20,No Category Specified,446,2750,2017,12,December,20,4
+2018-01-10,No Category Specified,446,2750,2018,1,January,10,1
+2018-01-24,No Category Specified,444,2750,2018,1,January,24,1
+2018-02-07,No Category Specified,442,3000,2018,2,February,7,1
+2018-02-21,No Category Specified,442,3000,2018,2,February,21,1
+2018-03-14,No Category Specified,456,3000,2018,3,March,14,1
+2018-03-26,No Category Specified,446,3000,2018,3,March,26,1
+2018-04-11,No Category Specified,444,3500,2018,4,April,11,2
+2018-04-25,No Category Specified,441,3500,2018,4,April,25,2
+2018-05-09,No Category Specified,441,3500,2018,5,May,9,2
+2018-05-23,No Category Specified,440,3500,2018,5,May,23,2
+2018-05-30,Federal Skilled Trades candidates only,288,350,2018,5,May,30,2
+2018-05-30,Provincial nominees only,902,350,2018,5,May,30,2
+2018-06-13,No Category Specified,451,3750,2018,6,June,13,2
+2018-06-25,No Category Specified,442,3750,2018,6,June,25,2
+2018-07-11,No Category Specified,442,3750,2018,7,July,11,3
+2018-07-25,No Category Specified,441,3750,2018,7,July,25,3
+2018-08-08,No Category Specified,440,3750,2018,8,August,8,3
+2018-08-22,No Category Specified,440,3750,2018,8,August,22,3
+2018-09-05,No Category Specified,440,3900,2018,9,September,5,3
+2018-09-19,No Category Specified,441,3500,2018,9,September,19,3
+2018-09-24,Federal Skilled Trades candidates only,284,400,2018,9,September,24,3
+2018-10-03,No Category Specified,445,3900,2018,10,October,3,4
+2018-10-15,No Category Specified,440,3900,2018,10,October,15,4
+2018-10-29,No Category Specified,442,3900,2018,10,October,29,4
+2018-11-15,No Category Specified,449,3900,2018,11,November,15,4
+2018-11-28,No Category Specified,445,3900,2018,11,November,28,4
+2018-12-12,No Category Specified,445,3900,2018,12,December,12,4
+2018-12-19,No Category Specified,439,3900,2018,12,December,19,4
+2019-01-10,No Category Specified,449,3900,2019,1,January,10,1
+2019-01-23,No Category Specified,443,3900,2019,1,January,23,1
+2019-01-30,No Category Specified,438,3350,2019,1,January,30,1
+2019-02-20,No Category Specified,457,3350,2019,2,February,20,1
+2019-03-06,No Category Specified,454,3350,2019,3,March,6,1
+2019-03-20,No Category Specified,452,3350,2019,3,March,20,1
+2019-04-03,No Category Specified,451,3350,2019,4,April,3,2
+2019-04-17,No Category Specified,451,3350,2019,4,April,17,2
+2019-05-01,No Category Specified,450,3350,2019,5,May,1,2
+2019-05-15,Federal Skilled Trades candidates only,332,500,2019,5,May,15,2
+2019-05-29,No Category Specified,470,3350,2019,5,May,29,2
+2019-06-12,No Category Specified,465,3350,2019,6,June,12,2
+2019-06-26,No Category Specified,462,3350,2019,6,June,26,2
+2019-07-10,No Category Specified,460,3600,2019,7,July,10,3
+2019-07-24,No Category Specified,459,3600,2019,7,July,24,3
+2019-08-12,No Category Specified,466,3600,2019,8,August,12,3
+2019-08-20,No Category Specified,457,3600,2019,8,August,20,3
+2019-09-04,No Category Specified,463,3600,2019,9,September,4,3
+2019-09-18,No Category Specified,462,3600,2019,9,September,18,3
+2019-10-02,No Category Specified,464,3900,2019,10,October,2,4
+2019-10-16,Federal Skilled Trades candidates only,357,500,2019,10,October,16,4
+2019-11-13,No Category Specified,472,3600,2019,11,November,13,4
+2019-11-27,No Category Specified,471,3600,2019,11,November,27,4
+2019-12-11,No Category Specified,472,3200,2019,12,December,11,4
+2019-12-19,No Category Specified,469,3200,2019,12,December,19,4
+2020-01-08,No Category Specified,473,3400,2020,1,January,8,1
+2020-01-22,No Category Specified,471,3400,2020,1,January,22,1
+2020-02-05,No Category Specified,472,3500,2020,2,February,5,1
+2020-02-19,No Category Specified,470,4500,2020,2,February,19,1
+2020-03-04,No Category Specified,471,3900,2020,3,March,4,1
+2020-03-18,Provincial nominees only,720,668,2020,3,March,18,1
+2020-03-23,Canadian Experience Class only,467,3232,2020,3,March,23,1
+2020-04-09,Provincial nominees only,698,606,2020,4,April,9,2
+2020-04-09,Canadian Experience Class only,464,3294,2020,4,April,9,2
+2020-04-15,Provincial nominees only,808,118,2020,4,April,15,2
+2020-04-16,Canadian Experience Class only,455,3782,2020,4,April,16,2
+2020-04-29,Provincial nominees only,692,589,2020,4,April,29,2
+2020-05-01,Canadian Experience Class only,452,3311,2020,5,May,1,2
+2020-05-14,Provincial nominees only,718,529,2020,5,May,14,2
+2020-05-15,Canadian Experience Class only,447,3371,2020,5,May,15,2
+2020-05-27,Provincial nominees only,757,385,2020,5,May,27,2
+2020-05-28,Canadian Experience Class only,440,3515,2020,5,May,28,2
+2020-06-10,Provincial nominees only,743,341,2020,6,June,10,2
+2020-06-11,Canadian Experience Class only,437,3559,2020,6,June,11,2
+2020-06-24,Provincial nominees only,696,392,2020,6,June,24,2
+2020-06-25,Canadian Experience Class only,431,3508,2020,6,June,25,2
+2020-07-08,No Category Specified,478,3900,2020,7,July,8,3
+2020-07-22,Provincial nominees only,687,557,2020,7,July,22,3
+2020-07-23,Canadian Experience Class only,445,3343,2020,7,July,23,3
+2020-08-05,No Category Specified,476,3900,2020,8,August,5,3
+2020-08-06,Federal Skilled Trades candidates only,415,250,2020,8,August,6,3
+2020-08-19,Provincial nominees only,771,600,2020,8,August,19,3
+2020-08-20,Canadian Experience Class only,454,3300,2020,8,August,20,3
+2020-09-02,No Category Specified,475,4200,2020,9,September,2,3
+2020-09-16,No Category Specified,472,4200,2020,9,September,16,3
+2020-09-29,No Category Specified,471,4200,2020,9,September,29,3
+2020-10-14,No Category Specified,471,4500,2020,10,October,14,4
+2020-11-05,No Category Specified,478,4500,2020,11,November,5,4
+2020-11-18,No Category Specified,472,5000,2020,11,November,18,4
+2020-11-25,No Category Specified,469,5000,2020,11,November,25,4
+2020-12-09,No Category Specified,469,5000,2020,12,December,9,4
+2020-12-23,No Category Specified,468,5000,2020,12,December,23,4
+2021-01-06,Provincial nominees only,813,250,2021,1,January,6,1
+2021-01-07,Canadian Experience Class only,461,4750,2021,1,January,7,1
+2021-01-20,Provincial nominees only,741,374,2021,1,January,20,1
+2021-01-21,Canadian Experience Class only,454,4626,2021,1,January,21,1
+2021-02-10,Provincial nominees only,720,654,2021,2,February,10,1
+2021-02-13,Canadian Experience Class only,75,27332,2021,2,February,13,1
+2021-03-08,Provincial nominees only,739,671,2021,3,March,8,1
+2021-03-17,Provincial nominees only,682,183,2021,3,March,17,1
+2021-03-18,Canadian Experience Class only,449,5000,2021,3,March,18,1
+2021-03-31,Provincial nominees only,778,284,2021,3,March,31,1
+2021-04-01,Canadian Experience Class only,432,5000,2021,4,April,1,2
+2021-04-13,Provincial nominees only,782,787,2021,4,April,13,2
+2021-04-14,Provincial nominees only,753,266,2021,4,April,14,2
+2021-04-16,Canadian Experience Class only,417,6000,2021,4,April,16,2
+2021-04-27,Provincial nominees only,772,829,2021,4,April,27,2
+2021-04-28,Provincial nominees only,717,381,2021,4,April,28,2
+2021-04-29,Canadian Experience Class only,400,6000,2021,4,April,29,2
+2021-05-12,Provincial nominees only,752,557,2021,5,May,12,2
+2021-05-13,Canadian Experience Class only,401,4147,2021,5,May,13,2
+2021-05-20,Canadian Experience Class only,397,1842,2021,5,May,20,2
+2021-05-26,Provincial nominees only,713,500,2021,5,May,26,2
+2021-05-31,Canadian Experience Class only,380,5956,2021,5,May,31,2
+2021-06-09,Provincial nominees only,711,940,2021,6,June,9,2
+2021-06-10,Canadian Experience Class only,368,6000,2021,6,June,10,2
+2021-06-23,Provincial nominees only,742,1002,2021,6,June,23,2
+2021-06-24,Canadian Experience Class only,357,6000,2021,6,June,24,2
+2021-07-07,Provincial nominees only,760,627,2021,7,July,7,3
+2021-07-08,Canadian Experience Class only,369,4500,2021,7,July,8,3
+2021-07-21,Provincial nominees only,734,462,2021,7,July,21,3
+2021-07-22,Canadian Experience Class only,357,4500,2021,7,July,22,3
+2021-08-04,Provincial nominees only,760,512,2021,8,August,4,3
+2021-08-05,Canadian Experience Class only,404,3000,2021,8,August,5,3
+2021-08-18,Provincial nominees only,751,463,2021,8,August,18,3
+2021-08-19,Canadian Experience Class only,403,3000,2021,8,August,19,3
+2021-09-01,Provincial nominees only,764,635,2021,9,September,1,3
+2021-09-14,Canadian Experience Class only,462,2000,2021,9,September,14,3
+2021-09-15,Provincial nominees only,732,521,2021,9,September,15,3
+2021-09-29,Provincial nominees only,742,761,2021,9,September,29,3
+2021-10-13,Provincial nominees only,720,681,2021,10,October,13,4
+2021-10-27,Provincial nominees only,744,888,2021,10,October,27,4
+2021-11-10,Provincial nominees only,685,775,2021,11,November,10,4
+2021-11-24,Provincial nominees only,737,613,2021,11,November,24,4
+2021-12-10,Provincial nominees only,698,1032,2021,12,December,10,4
+2021-12-22,Provincial nominees only,720,746,2021,12,December,22,4
+2022-01-05,Provincial nominees only,808,392,2022,1,January,5,1
+2022-01-19,Provincial nominees only,745,1036,2022,1,January,19,1
+2022-02-02,Provincial nominees only,674,1070,2022,2,February,2,1
+2022-02-16,Provincial nominees only,710,1082,2022,2,February,16,1
+2022-03-02,Provincial nominees only,761,1047,2022,3,March,2,1
+2022-03-16,Provincial nominees only,754,924,2022,3,March,16,1
+2022-03-30,Provincial nominees only,785,919,2022,3,March,30,1
+2022-05-11,Provincial nominees only,753,545,2022,5,May,11,2
+2022-05-25,Provincial nominees only,741,589,2022,5,May,25,2
+2022-06-08,Provincial nominees only,796,932,2022,6,June,8,2
+2022-06-22,Provincial nominees only,752,636,2022,6,June,22,2
+2022-07-06,No Category Specified,557,1500,2022,7,July,6,3
+2022-07-20,No Category Specified,542,1750,2022,7,July,20,3
+2022-08-03,No Category Specified,533,2000,2022,8,August,3,3
+2022-08-17,No Category Specified,525,2250,2022,8,August,17,3
+2022-08-31,No Category Specified,516,2750,2022,8,August,31,3
+2022-09-14,No Category Specified,510,3250,2022,9,September,14,3
+2022-09-28,No Category Specified,504,3750,2022,9,September,28,3
+2022-10-12,No Category Specified,500,4250,2022,10,October,12,4
+2022-10-26,No Category Specified,496,4750,2022,10,October,26,4
+2022-11-09,No Category Specified,494,4750,2022,11,November,9,4
+2022-11-23,No Category Specified,491,4750,2022,11,November,23,4
+2023-01-11,No Category Specified,507,5500,2023,1,January,11,1
+2023-01-18,No Category Specified,490,5500,2023,1,January,18,1
+2023-02-01,Provincial nominees only,733,893,2023,2,February,1,1
+2023-02-02,Foreign Skilled Worker Program nominees only,489,3300,2023,2,February,2,1
+2023-02-15,Provincial nominees only,791,699,2023,2,February,15,1
+2023-03-01,Provincial nominees only,748,667,2023,3,March,1,1
+2023-03-15,No Category Specified,490,7000,2023,3,March,15,1
+2023-03-23,No Category Specified,484,7000,2023,3,March,23,1
+2023-03-29,No Category Specified,481,7000,2023,3,March,29,1
+2023-04-12,No Category Specified,486,3500,2023,4,April,12,2
+2023-04-26,No Category Specified,483,3500,2023,4,April,26,2
+2023-05-10,Provincial nominees only,691,589,2023,5,May,10,2
+2023-05-24,No Category Specified,488,4800,2023,5,May,24,2
+2023-06-08,No Category Specified,486,4800,2023,6,June,8,2
+2023-06-27,No Category Specified,486,4300,2023,6,June,27,2
+2023-06-28,Healthcare occupations only,476,500,2023,6,June,28,2
+2023-07-04,No Category Specified,511,700,2023,7,July,4,3
+2023-07-05,STEM occupations only,486,500,2023,7,July,5,3
+2023-07-06,Healthcare occupations only,463,1500,2023,7,July,6,3
+2023-07-07,French language proficiency only,439,2300,2023,7,July,7,3
+2023-07-11,No Category Specified,505,800,2023,7,July,11,3
+2023-07-12,French language proficiency only,375,3800,2023,7,July,12,3
+2023-08-01,No Category Specified,517,2000,2023,8,August,1,3
+2023-08-02,French language proficiency only,435,800,2023,8,August,2,3
+2023-08-03,Trades occupations only,388,1500,2023,8,August,3,3
+2023-08-15,No Category Specified,496,4300,2023,8,August,15,3
+2023-09-19,No Category Specified,531,3200,2023,9,September,19,3
+2023-09-20,Transport occupations only,435,1000,2023,9,September,20,3
+2023-09-26,No Category Specified,504,3000,2023,9,September,26,3
+2023-09-27,French language proficiency only,472,500,2023,9,September,27,3
+2023-09-28,Agriculture and Agri-Food occupations only,354,600,2023,9,September,28,3
+2023-10-10,No Category Specified,500,3725,2023,10,October,10,4
+2023-10-24,Provincial nominees only,776,1548,2023,10,October,24,4
+2023-10-25,French language proficiency only,486,300,2023,10,October,25,4
+2023-10-26,Healthcare occupations only,431,3600,2023,10,October,26,4
+2023-12-06,No Category Specified,561,4750,2023,12,December,6,4

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/314501687924619135/c5cf88b87f0e4234bf0e192b09cdcde1/artifacts
+deleted_time: 1702271980347
+end_time: 1702271793839
+entry_point_name: ''
+experiment_id: '314501687924619135'
+lifecycle_stage: deleted
+run_id: c5cf88b87f0e4234bf0e192b09cdcde1
+run_name: carefree-grouse-540
+run_uuid: c5cf88b87f0e4234bf0e192b09cdcde1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702271791599
+status: 3
+tags: []
+user_id: nanth

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/177139730256138725/bbf22eb3425a49cb8546403b290fd856/artifacts
+end_time: 1702592504635
+entry_point_name: ''
+experiment_id: '177139730256138725'
+lifecycle_stage: active
+run_id: bbf22eb3425a49cb8546403b290fd856
+run_name: I2 XGB Regressor Prediction wo CRS
+run_uuid: bbf22eb3425a49cb8546403b290fd856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702592498207
+status: 3
+tags: []
+user_id: nanth

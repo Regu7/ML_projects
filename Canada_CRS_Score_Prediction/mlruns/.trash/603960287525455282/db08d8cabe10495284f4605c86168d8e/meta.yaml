@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/603960287525455282/db08d8cabe10495284f4605c86168d8e/artifacts
+deleted_time: 1702272893778
+end_time: 1702272737598
+entry_point_name: ''
+experiment_id: '603960287525455282'
+lifecycle_stage: deleted
+run_id: db08d8cabe10495284f4605c86168d8e
+run_name: Random Forest Regression Prediction
+run_uuid: db08d8cabe10495284f4605c86168d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702272734110
+status: 3
+tags: []
+user_id: nanth

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/177139730256138725/974d6c75849e46abb1e77526a4770ac3/artifacts
+end_time: 1702481622715
+entry_point_name: ''
+experiment_id: '177139730256138725'
+lifecycle_stage: active
+run_id: 974d6c75849e46abb1e77526a4770ac3
+run_name: I1 ElasticNet Regression Prediction
+run_uuid: 974d6c75849e46abb1e77526a4770ac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702481614462
+status: 3
+tags: []
+user_id: nanth

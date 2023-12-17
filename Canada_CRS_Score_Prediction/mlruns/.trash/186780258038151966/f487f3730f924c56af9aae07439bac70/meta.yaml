@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/186780258038151966/f487f3730f924c56af9aae07439bac70/artifacts
+deleted_time: 1702271772638
+end_time: 1702271575170
+entry_point_name: ''
+experiment_id: '186780258038151966'
+lifecycle_stage: deleted
+run_id: f487f3730f924c56af9aae07439bac70
+run_name: awesome-chimp-653
+run_uuid: f487f3730f924c56af9aae07439bac70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702271569923
+status: 3
+tags: []
+user_id: nanth

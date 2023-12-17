@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702592526572
+current_stage: None
+description: ''
+last_updated_timestamp: 1702592526572
+name: I2 ElasticNet Regression
+run_id: 7f3c7ed76498462da5378ffd1715daf8
+run_link: ''
+source: mlflow-artifacts:/177139730256138725/7f3c7ed76498462da5378ffd1715daf8/artifacts/invitations_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/177139730256138725/7f3c7ed76498462da5378ffd1715daf8/artifacts/invitations_model
+user_id: null
+version: 6

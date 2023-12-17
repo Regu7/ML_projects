@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702593141942
+current_stage: None
+description: ''
+last_updated_timestamp: 1702593141942
+name: C1 Decision Tree Regression
+run_id: d8fc1cac6fb64712b996dc7e240e7128
+run_link: ''
+source: mlflow-artifacts:/277551444441880368/d8fc1cac6fb64712b996dc7e240e7128/artifacts/crs_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/277551444441880368/d8fc1cac6fb64712b996dc7e240e7128/artifacts/crs_model
+user_id: null
+version: 11

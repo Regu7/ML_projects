@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702481518203
+current_stage: None
+description: ''
+last_updated_timestamp: 1702481518203
+name: C1 Linear Regression
+run_id: d086edd0f6e74296a79a14ad8f96e516
+run_link: ''
+source: mlflow-artifacts:/277551444441880368/d086edd0f6e74296a79a14ad8f96e516/artifacts/crs_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/277551444441880368/d086edd0f6e74296a79a14ad8f96e516/artifacts/crs_model
+user_id: null
+version: 3

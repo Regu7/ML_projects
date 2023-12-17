@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/314501687924619135/81bf14467e354124adf84e7060b8c91e/artifacts
+deleted_time: 1702271980347
+end_time: 1702271787440
+entry_point_name: ''
+experiment_id: '314501687924619135'
+lifecycle_stage: deleted
+run_id: 81bf14467e354124adf84e7060b8c91e
+run_name: incongruous-lynx-977
+run_uuid: 81bf14467e354124adf84e7060b8c91e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702271785513
+status: 3
+tags: []
+user_id: nanth

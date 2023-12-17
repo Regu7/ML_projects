@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702481702084
+current_stage: None
+description: ''
+last_updated_timestamp: 1702481702084
+name: I2 Decision Tree Regression
+run_id: 409a5f0db6614b1281a8260b345ba50b
+run_link: ''
+source: mlflow-artifacts:/177139730256138725/409a5f0db6614b1281a8260b345ba50b/artifacts/invitations_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/177139730256138725/409a5f0db6614b1281a8260b345ba50b/artifacts/invitations_model
+user_id: null
+version: 3

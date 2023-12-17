@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/186780258038151966/7eca6ee5d07046aa801f1eeeb576d9d9/artifacts
+deleted_time: 1702271772638
+end_time: 1702271555281
+entry_point_name: ''
+experiment_id: '186780258038151966'
+lifecycle_stage: deleted
+run_id: 7eca6ee5d07046aa801f1eeeb576d9d9
+run_name: orderly-snake-773
+run_uuid: 7eca6ee5d07046aa801f1eeeb576d9d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702271550187
+status: 3
+tags: []
+user_id: nanth

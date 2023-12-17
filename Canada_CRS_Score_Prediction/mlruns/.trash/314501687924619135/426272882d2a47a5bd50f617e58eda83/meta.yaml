@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/314501687924619135/426272882d2a47a5bd50f617e58eda83/artifacts
+deleted_time: 1702271980347
+end_time: 1702271783670
+entry_point_name: ''
+experiment_id: '314501687924619135'
+lifecycle_stage: deleted
+run_id: 426272882d2a47a5bd50f617e58eda83
+run_name: rare-grouse-838
+run_uuid: 426272882d2a47a5bd50f617e58eda83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702271781673
+status: 3
+tags: []
+user_id: nanth

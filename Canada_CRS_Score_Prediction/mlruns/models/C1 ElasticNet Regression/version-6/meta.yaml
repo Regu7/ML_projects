@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702488809373
+current_stage: None
+description: ''
+last_updated_timestamp: 1702488809373
+name: C1 ElasticNet Regression
+run_id: 004206f12cec4430864d36a486b213b1
+run_link: ''
+source: mlflow-artifacts:/277551444441880368/004206f12cec4430864d36a486b213b1/artifacts/crs_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/277551444441880368/004206f12cec4430864d36a486b213b1/artifacts/crs_model
+user_id: null
+version: 6

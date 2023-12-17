@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702592445596
+current_stage: None
+description: ''
+last_updated_timestamp: 1702592445596
+name: C1 Support Vector Regression
+run_id: 89869426bfdf466b800054cec70a8157
+run_link: ''
+source: mlflow-artifacts:/277551444441880368/89869426bfdf466b800054cec70a8157/artifacts/crs_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/277551444441880368/89869426bfdf466b800054cec70a8157/artifacts/crs_model
+user_id: null
+version: 10

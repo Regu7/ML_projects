@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/314501687924619135/785d021d5db24019a5fbc00634b9e04f/artifacts
+deleted_time: 1702271980347
+end_time: 1702271779664
+entry_point_name: ''
+experiment_id: '314501687924619135'
+lifecycle_stage: deleted
+run_id: 785d021d5db24019a5fbc00634b9e04f
+run_name: skittish-shrimp-200
+run_uuid: 785d021d5db24019a5fbc00634b9e04f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702271777880
+status: 3
+tags: []
+user_id: nanth
